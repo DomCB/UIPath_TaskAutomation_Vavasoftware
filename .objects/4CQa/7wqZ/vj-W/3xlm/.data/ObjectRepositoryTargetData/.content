@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="TBPxZfi9AECiOSVEOtRcUA" Reference="DMF3AAsteEqkynXsB55a0w/3xlmgvyLYkGvzEcx_Bf8fw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://stg-snake-rcma.kgm989.com/deposit-management/0?sort=created_at&amp;direction=desc&amp;page=&amp;status=0&amp;limit=50" CVScreenId="6be071d6-f044-486d-ba6b-8e8ba46fe8ea" CvElementArea="1016, 174, 83, 49" CvTextArea="1047, 192, 20, 12" CvTextArgument="OK" CvType="Button" DesignTimeRectangle="1022, 179, 71, 38" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;ctrl name='stg-snake-rcma.kgm989.com says' role='dialog' /&gt;&lt;ctrl name='OK' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='stg-snake-rcma.kgm989.com says' role='dialog' /&gt;&lt;ctrl name='OK' role='push button' automationid='' check:fulltext='OK' /&gt;" Guid="f5f9f838-8b27-4d44-ab23-682e022bd972" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Administrator - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6be071d6-f044-486d-ba6b-8e8ba46fe8ea" CvTextArea="762, 146, 203, 13" CvTextArgument="Are you sure you want to cancel it?" CvType="Text" DesignTimeRectangle="764, 143, 408, 20" ElementType="Text" FuzzySelectorArgument="&lt;ctrl name='stg-snake-rcma.kgm989.com says' role='dialog' /&gt;&lt;ctrl name='Are you sure you want to cancel it?' role='text' automationid='' check:fulltext='Are you sure you want to cancel it?' /&gt;" Guid="ca6949e5-f8b6-4548-8b1e-2c213c9f9834" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2d7d4c6b1ac6077488f8983709c1ca0e.png" xmlns="">0daqUr2BkCU6X0API8Hw6Yg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ahtxjOBeB0eGb6FDD-0p2g" Reference="DMF3AAsteEqkynXsB55a0w/XW87OgIhukaD5WzTtvFpIg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://stg-snake-rcma.kgm989.com/deposit-management/0?sort=created_at&amp;direction=desc&amp;page=&amp;status=0&amp;limit=50" CVScreenId="a06e4b5f-7599-4379-b66d-dcd8098b51eb" CvElementArea="1016, 174, 83, 49" CvTextArea="1047, 192, 20, 12" CvTextArgument="OK" CvType="Button" DesignTimeRectangle="1022, 179, 71, 38" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;ctrl name='stg-snake-rcma.kgm989.com says' role='dialog' /&gt;&lt;ctrl name='OK' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='stg-snake-rcma.kgm989.com says' role='dialog' /&gt;&lt;ctrl name='OK' role='push button' automationid='' check:fulltext='OK' /&gt;" Guid="7cdb15c0-dfbd-4e33-ac23-0fc13c0aaa48" ScopeSelectorArgument="&lt;wnd app='chrome.exe' omit:cls='Chrome_WidgetWin_1' omit:title='Administrator - Google Chrome' /&gt;&lt;ctrl name='stg-snake-rcma.kgm989.com says' role='dialog' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Visible">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a06e4b5f-7599-4379-b66d-dcd8098b51eb" CvTextArea="762, 146, 203, 13" CvTextArgument="Are you sure you want to cancel it?" CvType="Text" DesignTimeRectangle="764, 143, 408, 20" ElementType="Text" FullSelectorArgument="&lt;ctrl name='stg-snake-rcma.kgm989.com says' role='dialog' /&gt;&lt;ctrl name='Are you sure you want to cancel it?' role='text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='stg-snake-rcma.kgm989.com says' role='dialog' /&gt;&lt;ctrl name='Are you sure you want to cancel it?' role='text' automationid='' check:fulltext='Are you sure you want to cancel it?' /&gt;" Guid="4a80da7c-6026-4e8b-9030-f9dc9a4b62ac" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="23dec5ab0cd0bf76a5ce9a0ea20b358a.png" xmlns="">0jMYrsAiu80aHoIIDOJevcA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

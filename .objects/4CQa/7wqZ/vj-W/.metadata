@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome SnakeOnline Casino and Sports Betting",
+  "Type": "Screen",
+  "Id": "vj-W7Pe13U6CZci2zI1NjA",
+  "Reference": "DMF3AAsteEqkynXsB55a0w/vj-W7Pe13U6CZci2zI1NjA",
+  "ParentRef": "DMF3AAsteEqkynXsB55a0w/7wqZbMLn2kS037cyTI_MYw",
+  "Created": "2024-08-28T07:32:49.8909458Z",
+  "Updated": "2024-08-28T07:32:49.8909458Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

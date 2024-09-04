@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Administrator",
+  "Type": "Screen",
+  "Id": "tob4G5clPkqGBrUYY5L5GQ",
+  "Reference": "DMF3AAsteEqkynXsB55a0w/tob4G5clPkqGBrUYY5L5GQ",
+  "ParentRef": "DMF3AAsteEqkynXsB55a0w/7wqZbMLn2kS037cyTI_MYw",
+  "Created": "2024-08-28T09:55:22.6305287Z",
+  "Updated": "2024-08-28T09:55:22.6305287Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

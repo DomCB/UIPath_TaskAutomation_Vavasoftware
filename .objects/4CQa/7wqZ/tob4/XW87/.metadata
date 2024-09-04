@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click 'OK'",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "XW87OgIhukaD5WzTtvFpIg",
+  "Reference": "DMF3AAsteEqkynXsB55a0w/XW87OgIhukaD5WzTtvFpIg",
+  "ParentRef": "DMF3AAsteEqkynXsB55a0w/tob4G5clPkqGBrUYY5L5GQ",
+  "Created": "2024-08-28T09:55:22.8007821Z",
+  "Updated": "2024-08-28T09:55:22.8007821Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
